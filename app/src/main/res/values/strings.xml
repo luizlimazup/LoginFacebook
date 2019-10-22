@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tela de Login do Facebook</string>
+    <string name="title">Log into Facebook</string>
+    <string name="button_log">Log in</string>
+    <string name="or">or</string>
+    <string name="button_create">Create New Account</string>
+    <string name="forgot">Forgot account?</string>
+    <string name="now">Not now</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+</resources>
